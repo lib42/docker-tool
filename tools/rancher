@@ -1,0 +1,5 @@
+NAME=rancher
+VERSION=2.3.2
+URL=https://releases.rancher.com/cli2/v${VERSION}/rancher-linux-amd64-v${VERSION}.tar.gz 
+EXTRACT="tar -xf"
+BIN=rancher-v${VERSION}/rancher

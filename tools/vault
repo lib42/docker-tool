@@ -1,0 +1,5 @@
+NAME=vault
+VERSION=1.3.2
+URL=https://releases.hashicorp.com/vault/${VERSION}/vault_${VERSION}_linux_amd64.zip
+EXTRACT="unzip"
+BIN=vault

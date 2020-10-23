@@ -1,0 +1,4 @@
+NAME=fluxctl
+VERSION=1.21.0
+URL=https://github.com/fluxcd/flux/releases/download/${VERSION}/fluxctl_linux_amd64
+BIN=fluxctl_linux_amd64

@@ -1,0 +1,5 @@
+NAME=helm2
+VERSION=2.16.3
+URL=https://get.helm.sh/helm-v${VERSION}-linux-amd64.tar.gz 
+EXTRACT='tar -xf'
+BIN=linux-amd64/helm

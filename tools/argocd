@@ -1,0 +1,4 @@
+NAME=argocd
+VERSION=1.4.2
+URL=https://github.com/argoproj/argo-cd/releases/download/v${VERSION}/argocd-linux-amd64
+BIN=argocd-linux-amd64
